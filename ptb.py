@@ -199,7 +199,7 @@ def predict_main():
 
 
 if __name__ == '__main__':
-    task = 'predict'
+    task = 'train'
     if task == 'train':
         main()
     else:
